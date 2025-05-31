@@ -5,15 +5,11 @@
 
 ---
 
-## 🚧 Uygulama Durumu: Kapalı Test
+## 🚧 Uygulama Durumu: Google Play'de Yayında
 
-🧪 WeatherWay şu anda **Google Play üzerinde kapalı test** aşamasındadır.
+🧪 WeatherWay şu anda **Google Play üzerinde yayındadır**.
 
-🔒 Uygulamayı test etmek için lütfen aşağıdaki adrese Gmail hesabınızı gönderin:
-
-📩 **berkaylmz.dev@gmail.com**
-
-> Sadece eklenen kullanıcılar test bağlantısı üzerinden uygulamayı indirebilir.
+Uygulamaya Erişmek için: **https://play.google.com/store/apps/details?id=com.berkaylmz.WeatherWay&hl=tr**
 
 ---
 
